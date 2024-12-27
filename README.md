@@ -5,7 +5,7 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-red.svg)
 
-<img src="/api/placeholder/800/400" alt="PRISM Demo" />
+<img src="https://github.com/Manish-Kumar24/PRISM--Precise-Recognition-Identity-Security-Manager/blob/main/assets/Face%20Recognition%20System.png" alt="PRISM Demo" />
 
 PRISM (Precise Recognition & Identity Security Manager) is a sophisticated facial recognition system built with Flask and VGGFace model. This system captures images through a webcam and compares them against a database of known faces, providing similarity metrics and logging verification results.
 
